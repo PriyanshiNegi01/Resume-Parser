@@ -1,0 +1,150 @@
+{
+    "Name": "Priyanshi Negi",
+    "Contact Information": {
+        "Email": [
+            "priyanshinegi11@gmail.com",
+            "pr3409@srmist.edu.in"
+        ],
+        "Phone": "+91 9045853955"
+    },
+    "Education": [
+        {
+            "Degree": "B.Tech in Computer Science with specialization in Big Data Analytics",
+            "Institution": "SRM Institute of Science and Technology",
+            "Graduation Year": "June 2025",
+            "Location": "Kattankulathur, Tamil Nadu",
+            "CGPA": "9.59/10.0"
+        },
+        {
+            "Degree": "Class XII (Physics, Chemistry, Maths, Computer Science)",
+            "Institution": "Nashik Cambridge School",
+            "Graduation Year": "June 2021",
+            "Location": "Nashik, Maharashtra",
+            "Percentage": {
+                "X": "90.6%",
+                "XII": "84.4%"
+            }
+        }
+    ],
+    "Skills": {
+        "Languages": [
+            "Java",
+            "Python",
+            "SQL"
+        ],
+        "Developer Tools": [
+            "Tableau",
+            "Power BI",
+            "Jupyter Notebook",
+            "pgAdmin",
+            "IntelliJ",
+            "Alexa Developer Console"
+        ],
+        "Libraries": [
+            "Pandas",
+            "NumPy",
+            "Matplotlib",
+            "Seaborn",
+            "Scikit-learn"
+        ]
+    },
+    "Work Experience": [
+        {
+            "Job Title": "Technical Member",
+            "Company": "Alexa Developers SRM",
+            "Location": "SRMIST",
+            "Dates of Employment": "June 2023 \u2013 April 2024",
+            "Responsibilities": [
+                "Worked on an Alexa Skills project named 'Intelligent Personal Assistant'.",
+                "Contributed to the backend development for the 'Alexa Tree' project."
+            ]
+        },
+        {
+            "Job Title": "Data Science Intern",
+            "Company": "CodersCave",
+            "Location": "Remote",
+            "Dates of Employment": "July 2023 \u2013 August 2023",
+            "Responsibilities": [
+                "Leveraged Python libraries for data collection, preprocessing, and visualization tasks.",
+                "Conducted comprehensive data analysis to extract insights from datasets."
+            ]
+        }
+    ],
+    "Projects": [
+        {
+            "Project Name": "Credit Card Fraud Detection",
+            "Date": "March 2024",
+            "Details": [
+                "Developed a binary classification model to detect fraudulent credit card transactions using a dataset of 284,807 transactions with 30 features.",
+                "Implemented data preprocessing, addressed class imbalance with undersampling and oversampling, and trained three classifiers: Logistic Regression, Decision Tree Classifier, and Random Forest Classifier.",
+                "Assessed models using accuracy, precision, recall, and F1 score."
+            ]
+        },
+        {
+            "Project Name": "Intelligent Personal Assistant",
+            "Date": "June 2023",
+            "Details": [
+                "Developed and enhanced Alexa skill using abstracted Python codes.",
+                "Integrated additional functionalities through APIs from Google Cloud Console."
+            ]
+        },
+        {
+            "Project Name": "Exploratory Data Analysis on Global Terrorism",
+            "Date": "June 2023",
+            "Details": [
+                "Conducted Exploratory Data Analysis (EDA) on the comprehensive Global Terrorism Dataset, comprising over 7000+ worldwide incidents.",
+                "Ensured data quality through data cleaning, null imputation and outlier detection.",
+                "Utilized visualizations to uncover patterns and trends in global terrorism data.",
+                "Employed libraries such as pandas, matplotlib, and seaborn for data analysis and visualization."
+            ]
+        }
+    ],
+    "Achievements": [
+        {
+            "Achievement": "First Prize in DigiZest 1.0 Technical Hackathon",
+            "Institution": "SRMIST",
+            "Date": "September 2023",
+            "Details": [
+                "Developed home automation with Intelligent Assistant integrated with ChatGPT."
+            ]
+        }
+    ],
+    "Certifications": [
+        {
+            "Certification": "Microsoft Certified: Power BI Data Analyst Associate",
+            "Institution": "Microsoft",
+            "Valid From": "29 May 2024",
+            "Valid To": "30 May 2025"
+        },
+        {
+            "Certification": "The Complete SQL Bootcamp",
+            "Institution": "Udemy",
+            "Date": "June 2023"
+        },
+        {
+            "Certification": "Foundations: Data, Data, Everywhere",
+            "Institution": "Coursera",
+            "Date": "June 2023"
+        },
+        {
+            "Certification": "AWS Academy Graduate - AWS Academy Data Analytics",
+            "Institution": "AWS Academy",
+            "Date": "May 2023"
+        },
+        {
+            "Certification": "Python Data Structures",
+            "Institution": "Coursera",
+            "Date": "May 2023"
+        },
+        {
+            "Certification": "AWS Academy Graduate - AWS Academy Machine Learning Foundations",
+            "Institution": "AWS Academy",
+            "Date": "March 2023"
+        },
+        {
+            "Certification": "Design and Analysis of Algorithms",
+            "Institution": "NPTEL",
+            "Date": "March 2023"
+        }
+    ]
+}
