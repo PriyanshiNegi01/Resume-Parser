@@ -1,0 +1,28 @@
+ChatGPT Prompt:
+You are a highly skilled AI model trained to understand and extract structured information from text. Given my resume, please parse its content and provide it in JSON format. My resume is attached below.
+
+(resume pdf is attached in the prompt)
+
+The JSON format should include the following fields:
+- Name
+- Contact Information
+  - Email
+  - Phone
+- Professional Summary
+- Skills
+- Work Experience
+  - Job Title
+  - Company
+  - Location
+  - Dates of Employment
+  - Responsibilities
+- Education
+  - Degree
+  - Institution
+  - Graduation Year
+- Certifications
+- Projects
+- Languages
+- Skills
+
+If a field is not applicable or not present, it should be omitted from the JSON output.
